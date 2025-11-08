@@ -1,8 +1,8 @@
 import React from 'react';
-import VocabGame from './VocabGame.jsx';
+import VocabGameTyping from './VocabGameTyping.jsx';
 
 function App() {
-  return <VocabGame />;
+  return <VocabGameTyping />;
 }
 
 export default App;
